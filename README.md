@@ -1,2 +1,2 @@
 # Data-Extraction
-Getting data from the www
+Getting unstructured data from the web, images, sensors, etc.
